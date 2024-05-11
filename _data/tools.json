@@ -81,13 +81,13 @@
       "type": "SAST"
    },
    {
-          "title": "Blacklock",
-          "url": "https://blacklock.io/",
-          "owner": "Blacklock Security",
-          "license": "Commercial",
-          "platforms":  "Any",
-          "note": "14-day trial",
-          "type": "DAST"
+      "title": "Blacklock",
+      "url": "https://blacklock.io/",
+      "owner": "Blacklock Security",
+      "license": "Commercial",
+      "platforms":  "Any",
+      "note": "14-day trial",
+      "type": "DAST"
    },
    {
       "title": "Astra Security Suite",
@@ -1032,6 +1032,15 @@
       "license": "Open Source or Free",
       "platforms": null,
       "note": "A set of PHP_CodeSniffer rules to finds flaws or weaknesses related to security in PHP and its popular CMS or frameworks. It currently has core PHP rules as well as Drupal 7 specific rules.",
+      "type": "SAST"
+   },
+   {
+      "title": "PHPStan",
+      "url": "https://phpstan.org/",
+      "owner": "Vimeo, Inc.",
+      "license": "Open Source",
+      "platforms": null,
+      "note": "PHP Static Analysis Tool.",
       "type": "SAST"
    },
    {
